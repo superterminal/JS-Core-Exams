@@ -20,5 +20,5 @@ function solve(examPoints, hwCompleted, totalHomework) {
     }
 }
 
-solve(390, 20, 20);
-//solve(200, 5, 5);
+//solve(390, 20, 20);
+solve(200, 5, 5);
